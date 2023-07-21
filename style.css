@@ -8,7 +8,7 @@
 
 body{
 
-    background-color: hsl(27, 83%, 50%);
+    background-color: #e975166e;
 
 }
     
@@ -56,16 +56,17 @@ main{
     width: 80%;
     height: 100%;
     border: none;
-    background-color: #f4fafc;
+    background-color: #f5c39a;
     cursor: pointer;
-    color: blue;
+    color:#969696;
     font-size: 32px;
     font-weight: 400;
+    outline: none;
     
 }
 
 .cajatexto::placeholder{
-    color: blue;
+
 
 }
     
